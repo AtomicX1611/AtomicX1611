@@ -10,7 +10,7 @@ distributed systems, and building scalable software.
   
 ### Interests
 - Distributed systems
-- System design
+- System architecture and design 
 - Data-intensive applications
 
 ### Contact
