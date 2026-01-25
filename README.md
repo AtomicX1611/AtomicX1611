@@ -3,14 +3,11 @@ Hi 👋
 I’m a CS undergraduate focused on backend engineering,
 distributed systems, building scalable software and DSA.
 
-### Work
+### Work & Interests
 - Full Stack Applications using MERN.
 - Native Android App Development.
-- Backend and system architecture experiments .
-  
-### Interests
+- Backend and system architecture.
 - Distributed systems
-- System architecture and design 
 - Data Structures and Algorithms @[Leetcode](https://leetcode.com/u/Karthik16_Dev/)
 
 ### Contact
